@@ -1,0 +1,30 @@
+{
+    "fontawesome": [{
+        "type:": "WRITE_HEAD",
+        "value": "<link rel=\"stylesheet\" href=\"https://use.fontawesome.com/releases/v5.15.3/css/all.css\" crossorigin=\"anonymous\">"
+    }],
+    "bootstrap": [{
+        "type:": "WRITE_HEAD",
+        "value": "<link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css\" crossorigin=\"anonymous\">"
+    }],
+    "jquery": [{
+        "type:": "FETCH_JS",
+        "value": "https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"
+    }],
+    "session": [{
+        "type:": "FETCH_JS",
+        "value": "https://cdn.jsdelivr.net/gh/greencoder001/sessionjs@latest/main.js"
+    }],
+    "queryjs": [{
+        "type:": "FETCH_JS",
+        "value": "https://cdn.jsdelivr.net/gh/greencoder001/queryjs@latest/dist/query.js"
+    }],
+    "zget": [{
+        "type:": "FETCH_JS",
+        "value": "https://cdn.jsdelivr.net/gh/greencoder001/zget@latest/dist/bundle.js"
+    }],
+    "asyncjs": [{
+        "type:": "FETCH_JS",
+        "value": "https://cdn.jsdelivr.net/gh/greencoder001/asyncjs@latest/dist/bundle.js"
+    }]
+}
